@@ -6,11 +6,13 @@ I'm the author of:
 
 - the sci-fi/fantasy novel [A Good Thing Never Stops](https://www.amazon.com/Good-Thing-Never-Stops/dp/153788963X/)
 - the ongoing Salesforce Apex programming series, [The Joys Of Apex](https://www.jamessimone.net/blog/joys-of-apex/) (mirrored on [coding.blog](https://james.coding.blog/)). I'm always looking for quality SFDC content for the Joys Of Apex — you can [reach out](https://www.jamessimone.net/contact/) if you're interested in contributing a guest post(s)!
+- the open-source, [free Salesforce custom rollup solution](https://github.com/jamessimone/apex-rollup)
 
 ## Salesforce Repos
 
 There are a number of repositories I maintain related to Apex that may strike your fancy:
 
+- [Apex Rollup](https://github.com/jamessimone/apex-rollup) - free, CMDT/Invocable/Apex-driven rollup solution aiming to deprecate DLRS. One line of code to install.
 - [Apex Mocks](https://github.com/jamessimone/apex-mocks-stress-test) — started off as a comparison between a small CRUD wrapper and the larger FFLib library; there are now many branches related to specific Joys Of Apex posts
 - [lwc-modal](https://github.com/jamessimone/lwc-modal) — an accessible, composable Lightning Web Component Modal that can be dropped in to any project
 - [lwc-paginator](https://github.com/jamessimone/lwc-paginator) — another drop-in LWC, this time for pagination
