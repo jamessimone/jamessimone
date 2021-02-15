@@ -6,7 +6,7 @@ I'm the author of:
 
 - the sci-fi/fantasy novel [A Good Thing Never Stops](https://www.amazon.com/Good-Thing-Never-Stops/dp/153788963X/)
 - the ongoing Salesforce Apex programming series, [The Joys Of Apex](https://www.jamessimone.net/blog/joys-of-apex/) (mirrored on [coding.blog](https://james.coding.blog/)). I'm always looking for quality SFDC content for the Joys Of Apex — you can [reach out](https://www.jamessimone.net/contact/) if you're interested in contributing a guest post(s)!
-- [Rollup]((https://github.com/jamessimone/apex-rollup), the free & open-source Salesforce custom rollup solution
+- [Rollup](https://github.com/jamessimone/apex-rollup), the free & open-source Salesforce custom rollup solution
 ## Salesforce Repos
 
 There are a number of repositories I maintain related to Apex that may strike your fancy:
