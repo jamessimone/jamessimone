@@ -1,6 +1,6 @@
 # Give Me The Lowdown
 
-Hi! Thanks for visiting my Github profile. I'm a SFDC consultant and .net/TypeScript enthusiast.
+Hi! Thanks for visiting my Github profile. I'm a Salesforce employee and .net/TypeScript enthusiast.
 
 I'm the author of:
 
