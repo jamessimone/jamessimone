@@ -5,17 +5,17 @@ Hi! Thanks for visiting my Github profile. I'm a Salesforce employee and .net/Ty
 I'm the author of:
 
 - the sci-fi/fantasy novel [A Good Thing Never Stops](https://www.amazon.com/Good-Thing-Never-Stops/dp/153788963X/)
-- the ongoing Salesforce Apex programming series, [The Joys Of Apex](https://www.jamessimone.net/blog/joys-of-apex/) (mirrored on [coding.blog](https://james.coding.blog/)). I'm always looking for quality SFDC content for the Joys Of Apex — you can [reach out](https://www.jamessimone.net/contact/) if you're interested in contributing a guest post(s)!
-- [Rollup](https://github.com/jamessimone/apex-rollup), the free & open-source Salesforce custom rollup solution
+- the ongoing Salesforce Apex programming series, [The Joys Of Apex](https://www.jamessimone.net/blog/joys-of-apex/). I'm always looking for quality SFDC content for the Joys Of Apex — you can [reach out](https://www.jamessimone.net/contact/) if you're interested in contributing a guest post(s)!
+- [Apex Rollup](https://github.com/jamessimone/apex-rollup), the free & open-source Salesforce custom rollup solution
 ## Salesforce Repos
 
-There are a number of repositories I maintain related to Apex that may strike your fancy:
+There are a number of repositories I maintain or contribute to related to Apex that may strike your fancy:
 
 - [Apex Rollup](https://github.com/jamessimone/apex-rollup) - free, CMDT/Invocable/Apex-driven rollup solution aiming to deprecate DLRS. One line of code to install.
 - [Apex Mocks](https://github.com/jamessimone/apex-mocks-stress-test) — started off as a comparison between a small CRUD wrapper and the larger FFLib library; there are now many branches related to specific Joys Of Apex posts
 - [lwc-modal](https://github.com/jamessimone/lwc-modal) — an accessible, composable Lightning Web Component Modal that can be dropped in to any project
 - [lwc-paginator](https://github.com/jamessimone/lwc-paginator) — another drop-in LWC, this time for pagination
-- [dmc](https://github.com/jamessimone/dmc) — forked from Kevin O'Hara, the legend. I've kept DMC up-to-date because I enjoy its CLI far more than SFDX, and there are some things (like profile retrieves, and tooling API deploys) that DMC still does far better than SFDX (but believe me, I'll be the first person to take those words down when SFDX gets to a good point!)
+- [Nebula Logger](https://github.com/jongpie/NebulaLogger) — The most popular Salesforce logging framework, maintained by my good friend [@jongpie](https://github.com/jongpie). Nebula Logger makes it easy to consolidate logging across both the declarative and code-based parts of your Salesforce org, and has a burgeoning suite of plugins capable of further enhancing your logging functionality, making it easy to do things like log to Slack!
 
 ## Gatsby Plugins
 
